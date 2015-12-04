@@ -6,4 +6,6 @@ the values found in that xml file.
 
 It may be useful for debugging collections of presets.
 
+You need Python 3 to run it.
 
+    ./gen-report.py > report.txt
