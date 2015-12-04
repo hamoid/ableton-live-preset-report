@@ -1,0 +1,18 @@
+0. Presets/Synth Misc/Wiggle.adv
+  132960 bytes
+  114 parameters
+  MxDIntParameter      ReverbDecay          0               127             89             
+  MxDIntParameter      ReverbDiffuse        0               127             127            
+  MxDIntParameter      ReverbDistance       0               127             97             
+  MxDIntParameter      ReverbDryWet         0               100             78             
+  MxDIntParameter      ReverbSize           0               127             101            
+
+1. Presets/Effects/Deformer.adv
+  133253 bytes
+  114 parameters
+  MxDIntParameter      ReverbDecay          0               127             27             
+  MxDIntParameter      ReverbDiffuse        0               127             0              
+  MxDIntParameter      ReverbDistance       0               127             43             
+  MxDIntParameter      ReverbDryWet         0               100             100            
+  MxDIntParameter      ReverbSize           0               127             107            
+
